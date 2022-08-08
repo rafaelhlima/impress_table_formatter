@@ -2,6 +2,12 @@
 
 Quickly format and create styles for LibreOffice Impress/Draw tables.
 
+![Main dialog](media/main_dialog.png)
+
+New styles can be created from the selected table:
+
+![New style dialog](media/new_style_dialog.png)
+
 **This extension is still in alpha stage and it is not recommended to use it for production.**
 
 ## Compatibility
