@@ -1,0 +1,188 @@
+{
+    "header-row": {
+        "bg-color": {
+            "red": 237,
+            "green": 125,
+            "blue": 49
+        },
+        "bg-color2": {
+            "red": 114,
+            "green": 159,
+            "blue": 207
+        },
+        "fill-style": "SOLID",
+        "fill-transparence": 0,
+        "font-name": "Liberation Sans",
+        "font-size": 18.0,
+        "font-weight": 150.0,
+        "font-color": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "text-h-align": "BLOCK",
+        "text-v-align": "CENTER",
+        "para-adjust": 0,
+        "bottom-border": {
+            "line-color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            },
+            "line-style": 0,
+            "line-width": 17
+        },
+        "left-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "right-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        }
+    },
+    "banded-rows": {
+        "bg-color": {
+            "red": 241,
+            "green": 156,
+            "blue": 110
+        },
+        "bg-color2": {
+            "red": 114,
+            "green": 159,
+            "blue": 207
+        },
+        "fill-style": "SOLID",
+        "fill-transparence": 0,
+        "font-name": "Liberation Sans",
+        "font-size": 18.0,
+        "font-weight": 100.0,
+        "font-color": -1,
+        "text-h-align": "BLOCK",
+        "text-v-align": "CENTER",
+        "para-adjust": 0,
+        "bottom-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "left-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "right-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        }
+    },
+    "normal-rows": {
+        "bg-color": {
+            "red": 244,
+            "green": 177,
+            "blue": 150
+        },
+        "bg-color2": {
+            "red": 114,
+            "green": 159,
+            "blue": 207
+        },
+        "fill-style": "SOLID",
+        "fill-transparence": 0,
+        "font-name": "Liberation Sans",
+        "font-size": 18.0,
+        "font-weight": 100.0,
+        "font-color": -1,
+        "text-h-align": "BLOCK",
+        "text-v-align": "CENTER",
+        "para-adjust": 0,
+        "bottom-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "left-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "right-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        }
+    },
+    "table-borders": {
+        "top-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "left-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "bottom-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        },
+        "right-border": {
+            "line-color": {
+                "red": 237,
+                "green": 125,
+                "blue": 49
+            },
+            "line-style": 0,
+            "line-width": 9
+        }
+    }
+}
