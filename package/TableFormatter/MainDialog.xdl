@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dlg:window PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "dialog.dtd">
+<dlg:window xmlns:dlg="http://openoffice.org/2000/dialog" xmlns:script="http://openoffice.org/2000/script" dlg:id="MainDialog" dlg:left="227" dlg:top="108" dlg:width="312" dlg:height="166" dlg:closeable="true" dlg:moveable="true" dlg:title="Apply table style">
+ <dlg:styles>
+  <dlg:style dlg:style-id="0" dlg:background-color="0xffffff"/>
+ </dlg:styles>
+ <dlg:bulletinboard>
+  <dlg:menulist dlg:id="StyleList" dlg:tab-index="0" dlg:left="5" dlg:top="18" dlg:width="99" dlg:height="123"/>
+  <dlg:img dlg:style-id="0" dlg:id="imgPreview" dlg:tab-index="3" dlg:left="112" dlg:top="18" dlg:width="118" dlg:height="76"/>
+  <dlg:checkbox dlg:id="chkHeader" dlg:tab-index="8" dlg:left="112" dlg:top="114" dlg:width="89" dlg:height="10" dlg:value="Header row" dlg:checked="true"/>
+  <dlg:checkbox dlg:id="chkBanded" dlg:tab-index="9" dlg:left="112" dlg:top="126" dlg:width="89" dlg:height="10" dlg:value="Banded rows" dlg:checked="true"/>
+  <dlg:checkbox dlg:id="chkFont" dlg:tab-index="10" dlg:left="112" dlg:top="138" dlg:width="89" dlg:height="10" dlg:value="Font" dlg:checked="true"/>
+  <dlg:checkbox dlg:id="chkTextAlign" dlg:tab-index="11" dlg:left="112" dlg:top="150" dlg:width="89" dlg:height="10" dlg:value="Text alignment" dlg:checked="true"/>
+  <dlg:checkbox dlg:id="chkCompact" dlg:tab-index="13" dlg:left="208" dlg:top="114" dlg:width="100" dlg:height="10" dlg:value="Compact height" dlg:checked="false"/>
+  <dlg:checkbox dlg:id="chkShadow" dlg:tab-index="14" dlg:left="208" dlg:top="126" dlg:width="100" dlg:height="10" dlg:value="Add shadow" dlg:checked="false"/>
+  <dlg:checkbox dlg:id="chkClose" dlg:tab-index="15" dlg:left="208" dlg:top="138" dlg:width="100" dlg:height="10" dlg:value="Close after applying" dlg:checked="false"/>
+  <dlg:button dlg:id="btnFavorite" dlg:tab-index="17" dlg:left="5" dlg:top="145" dlg:width="48" dlg:height="16" dlg:value="Favorite"/>
+  <dlg:button dlg:id="btnDelete" dlg:tab-index="18" dlg:left="56" dlg:top="145" dlg:width="48" dlg:height="16" dlg:value="Delete"/>
+  <dlg:text dlg:id="labSelectStyle" dlg:tab-index="1" dlg:left="7" dlg:top="8" dlg:width="96" dlg:height="10" dlg:value="Select style"/>
+  <dlg:text dlg:id="labStyleOptions" dlg:tab-index="6" dlg:left="112" dlg:top="100" dlg:width="89" dlg:height="12" dlg:value="Styles to apply"/>
+  <dlg:text dlg:id="labAdditionalOptions" dlg:tab-index="7" dlg:left="208" dlg:top="101" dlg:width="100" dlg:height="12" dlg:value="Additional options"/>
+  <dlg:text dlg:id="labStylePreview" dlg:tab-index="12" dlg:left="112" dlg:top="8" dlg:width="116" dlg:height="10" dlg:value="Style preview"/>
+  <dlg:button dlg:id="btnApply" dlg:tab-index="2" dlg:left="240" dlg:top="18" dlg:width="61" dlg:height="16" dlg:value="Apply"/>
+  <dlg:button dlg:id="btnNewStyle" dlg:tab-index="4" dlg:left="240" dlg:top="38" dlg:width="61" dlg:height="16" dlg:value="New Style"/>
+  <dlg:button dlg:id="btnClose" dlg:tab-index="5" dlg:left="240" dlg:top="58" dlg:width="61" dlg:height="16" dlg:value="Close"/>
+  <dlg:button dlg:id="btnHelp" dlg:tab-index="16" dlg:left="240" dlg:top="78" dlg:width="61" dlg:height="16" dlg:value="Help"/>
+ </dlg:bulletinboard>
+</dlg:window>

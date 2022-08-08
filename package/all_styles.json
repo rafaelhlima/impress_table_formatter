@@ -1,0 +1,570 @@
+{
+  "Blank": {
+    "localized-name": "Blank",
+    "locale": "en-US",
+    "json-file": "style_0.json",
+    "png-file": "style_0.png",
+    "favorite": 1,
+    "custom": 0
+  },
+  "Black borders": {
+    "localized-name": "Black borders",
+    "locale": "en-US",
+    "json-file": "style_1.json",
+    "png-file": "style_1.png",
+    "favorite": 1,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 1": {
+    "localized-name": "Gray \u2013 Variation 1",
+    "locale": "en-US",
+    "json-file": "style_2.json",
+    "png-file": "style_2.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 2": {
+    "localized-name": "Gray \u2013 Variation 2",
+    "locale": "en-US",
+    "json-file": "style_3.json",
+    "png-file": "style_3.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 3": {
+    "localized-name": "Gray \u2013 Variation 3",
+    "locale": "en-US",
+    "json-file": "style_4.json",
+    "png-file": "style_4.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 4": {
+    "localized-name": "Gray \u2013 Variation 4",
+    "locale": "en-US",
+    "json-file": "style_5.json",
+    "png-file": "style_5.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 5": {
+    "localized-name": "Gray \u2013 Variation 5",
+    "locale": "en-US",
+    "json-file": "style_6.json",
+    "png-file": "style_6.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 6": {
+    "localized-name": "Gray \u2013 Variation 6",
+    "locale": "en-US",
+    "json-file": "style_7.json",
+    "png-file": "style_7.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 7": {
+    "localized-name": "Gray \u2013 Variation 7",
+    "locale": "en-US",
+    "json-file": "style_8.json",
+    "png-file": "style_8.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 8": {
+    "localized-name": "Gray \u2013 Variation 8",
+    "locale": "en-US",
+    "json-file": "style_9.json",
+    "png-file": "style_9.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Gray \u2013 Variation 9": {
+    "localized-name": "Gray \u2013 Variation 9",
+    "locale": "en-US",
+    "json-file": "style_10.json",
+    "png-file": "style_10.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 1": {
+    "localized-name": "Blue \u2013 Variation 1",
+    "locale": "en-US",
+    "json-file": "style_11.json",
+    "png-file": "style_11.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 2": {
+    "localized-name": "Blue \u2013 Variation 2",
+    "locale": "en-US",
+    "json-file": "style_12.json",
+    "png-file": "style_12.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 3": {
+    "localized-name": "Blue \u2013 Variation 3",
+    "locale": "en-US",
+    "json-file": "style_13.json",
+    "png-file": "style_13.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 4": {
+    "localized-name": "Blue \u2013 Variation 4",
+    "locale": "en-US",
+    "json-file": "style_14.json",
+    "png-file": "style_14.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 5": {
+    "localized-name": "Blue \u2013 Variation 5",
+    "locale": "en-US",
+    "json-file": "style_15.json",
+    "png-file": "style_15.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 6": {
+    "localized-name": "Blue \u2013 Variation 6",
+    "locale": "en-US",
+    "json-file": "style_16.json",
+    "png-file": "style_16.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 7": {
+    "localized-name": "Blue \u2013 Variation 7",
+    "locale": "en-US",
+    "json-file": "style_17.json",
+    "png-file": "style_17.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 8": {
+    "localized-name": "Blue \u2013 Variation 8",
+    "locale": "en-US",
+    "json-file": "style_18.json",
+    "png-file": "style_18.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 9": {
+    "localized-name": "Blue \u2013 Variation 9",
+    "locale": "en-US",
+    "json-file": "style_19.json",
+    "png-file": "style_19.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Blue \u2013 Variation 10": {
+    "localized-name": "Blue \u2013 Variation 10",
+    "locale": "en-US",
+    "json-file": "style_20.json",
+    "png-file": "style_20.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 1": {
+    "localized-name": "Orange \u2013 Variation 1",
+    "locale": "en-US",
+    "json-file": "style_21.json",
+    "png-file": "style_21.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 2": {
+    "localized-name": "Orange \u2013 Variation 2",
+    "locale": "en-US",
+    "json-file": "style_22.json",
+    "png-file": "style_22.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 3": {
+    "localized-name": "Orange \u2013 Variation 3",
+    "locale": "en-US",
+    "json-file": "style_23.json",
+    "png-file": "style_23.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 4": {
+    "localized-name": "Orange \u2013 Variation 4",
+    "locale": "en-US",
+    "json-file": "style_24.json",
+    "png-file": "style_24.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 5": {
+    "localized-name": "Orange \u2013 Variation 5",
+    "locale": "en-US",
+    "json-file": "style_25.json",
+    "png-file": "style_25.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 6": {
+    "localized-name": "Orange \u2013 Variation 6",
+    "locale": "en-US",
+    "json-file": "style_26.json",
+    "png-file": "style_26.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 7": {
+    "localized-name": "Orange \u2013 Variation 7",
+    "locale": "en-US",
+    "json-file": "style_27.json",
+    "png-file": "style_27.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 8": {
+    "localized-name": "Orange \u2013 Variation 8",
+    "locale": "en-US",
+    "json-file": "style_28.json",
+    "png-file": "style_28.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 9": {
+    "localized-name": "Orange \u2013 Variation 9",
+    "locale": "en-US",
+    "json-file": "style_29.json",
+    "png-file": "style_29.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Orange \u2013 Variation 10": {
+    "localized-name": "Orange \u2013 Variation 10",
+    "locale": "en-US",
+    "json-file": "style_30.json",
+    "png-file": "style_30.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 1": {
+    "localized-name": "Light Gray \u2013 Variation 1",
+    "locale": "en-US",
+    "json-file": "style_31.json",
+    "png-file": "style_31.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 2": {
+    "localized-name": "Light Gray \u2013 Variation 2",
+    "locale": "en-US",
+    "json-file": "style_32.json",
+    "png-file": "style_32.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 3": {
+    "localized-name": "Light Gray \u2013 Variation 3",
+    "locale": "en-US",
+    "json-file": "style_33.json",
+    "png-file": "style_33.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 4": {
+    "localized-name": "Light Gray \u2013 Variation 4",
+    "locale": "en-US",
+    "json-file": "style_34.json",
+    "png-file": "style_34.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 5": {
+    "localized-name": "Light Gray \u2013 Variation 5",
+    "locale": "en-US",
+    "json-file": "style_35.json",
+    "png-file": "style_35.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 6": {
+    "localized-name": "Light Gray \u2013 Variation 6",
+    "locale": "en-US",
+    "json-file": "style_36.json",
+    "png-file": "style_36.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 7": {
+    "localized-name": "Light Gray \u2013 Variation 7",
+    "locale": "en-US",
+    "json-file": "style_37.json",
+    "png-file": "style_37.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 8": {
+    "localized-name": "Light Gray \u2013 Variation 8",
+    "locale": "en-US",
+    "json-file": "style_38.json",
+    "png-file": "style_38.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 9": {
+    "localized-name": "Light Gray \u2013 Variation 9",
+    "locale": "en-US",
+    "json-file": "style_39.json",
+    "png-file": "style_39.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Gray \u2013 Variation 10": {
+    "localized-name": "Light Gray \u2013 Variation 10",
+    "locale": "en-US",
+    "json-file": "style_40.json",
+    "png-file": "style_40.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 1": {
+    "localized-name": "Yellow \u2013 Variation 1",
+    "locale": "en-US",
+    "json-file": "style_41.json",
+    "png-file": "style_41.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 2": {
+    "localized-name": "Yellow \u2013 Variation 2",
+    "locale": "en-US",
+    "json-file": "style_42.json",
+    "png-file": "style_42.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 3": {
+    "localized-name": "Yellow \u2013 Variation 3",
+    "locale": "en-US",
+    "json-file": "style_43.json",
+    "png-file": "style_43.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 4": {
+    "localized-name": "Yellow \u2013 Variation 4",
+    "locale": "en-US",
+    "json-file": "style_44.json",
+    "png-file": "style_44.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 5": {
+    "localized-name": "Yellow \u2013 Variation 5",
+    "locale": "en-US",
+    "json-file": "style_45.json",
+    "png-file": "style_45.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 6": {
+    "localized-name": "Yellow \u2013 Variation 6",
+    "locale": "en-US",
+    "json-file": "style_46.json",
+    "png-file": "style_46.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 7": {
+    "localized-name": "Yellow \u2013 Variation 7",
+    "locale": "en-US",
+    "json-file": "style_47.json",
+    "png-file": "style_47.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 8": {
+    "localized-name": "Yellow \u2013 Variation 8",
+    "locale": "en-US",
+    "json-file": "style_48.json",
+    "png-file": "style_48.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 9": {
+    "localized-name": "Yellow \u2013 Variation 9",
+    "locale": "en-US",
+    "json-file": "style_49.json",
+    "png-file": "style_49.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Yellow \u2013 Variation 10": {
+    "localized-name": "Yellow \u2013 Variation 10",
+    "locale": "en-US",
+    "json-file": "style_50.json",
+    "png-file": "style_50.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 1": {
+    "localized-name": "Light Blue \u2013 Variation 1",
+    "locale": "en-US",
+    "json-file": "style_51.json",
+    "png-file": "style_51.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 2": {
+    "localized-name": "Light Blue \u2013 Variation 2",
+    "locale": "en-US",
+    "json-file": "style_52.json",
+    "png-file": "style_52.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 3": {
+    "localized-name": "Light Blue \u2013 Variation 3",
+    "locale": "en-US",
+    "json-file": "style_53.json",
+    "png-file": "style_53.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 4": {
+    "localized-name": "Light Blue \u2013 Variation 4",
+    "locale": "en-US",
+    "json-file": "style_54.json",
+    "png-file": "style_54.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 5": {
+    "localized-name": "Light Blue \u2013 Variation 5",
+    "locale": "en-US",
+    "json-file": "style_55.json",
+    "png-file": "style_55.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 6": {
+    "localized-name": "Light Blue \u2013 Variation 6",
+    "locale": "en-US",
+    "json-file": "style_56.json",
+    "png-file": "style_56.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 7": {
+    "localized-name": "Light Blue \u2013 Variation 7",
+    "locale": "en-US",
+    "json-file": "style_57.json",
+    "png-file": "style_57.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 8": {
+    "localized-name": "Light Blue \u2013 Variation 8",
+    "locale": "en-US",
+    "json-file": "style_58.json",
+    "png-file": "style_58.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 9": {
+    "localized-name": "Light Blue \u2013 Variation 9",
+    "locale": "en-US",
+    "json-file": "style_59.json",
+    "png-file": "style_59.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Light Blue \u2013 Variation 10": {
+    "localized-name": "Light Blue \u2013 Variation 10",
+    "locale": "en-US",
+    "json-file": "style_60.json",
+    "png-file": "style_60.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 1": {
+    "localized-name": "Green \u2013 Variation 1",
+    "locale": "en-US",
+    "json-file": "style_61.json",
+    "png-file": "style_61.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 2": {
+    "localized-name": "Green \u2013 Variation 2",
+    "locale": "en-US",
+    "json-file": "style_62.json",
+    "png-file": "style_62.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 3": {
+    "localized-name": "Green \u2013 Variation 3",
+    "locale": "en-US",
+    "json-file": "style_63.json",
+    "png-file": "style_63.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 4": {
+    "localized-name": "Green \u2013 Variation 4",
+    "locale": "en-US",
+    "json-file": "style_64.json",
+    "png-file": "style_64.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 5": {
+    "localized-name": "Green \u2013 Variation 5",
+    "locale": "en-US",
+    "json-file": "style_65.json",
+    "png-file": "style_65.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 6": {
+    "localized-name": "Green \u2013 Variation 6",
+    "locale": "en-US",
+    "json-file": "style_66.json",
+    "png-file": "style_66.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 7": {
+    "localized-name": "Green \u2013 Variation 7",
+    "locale": "en-US",
+    "json-file": "style_67.json",
+    "png-file": "style_67.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 8": {
+    "localized-name": "Green \u2013 Variation 8",
+    "locale": "en-US",
+    "json-file": "style_68.json",
+    "png-file": "style_68.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 9": {
+    "localized-name": "Green \u2013 Variation 9",
+    "locale": "en-US",
+    "json-file": "style_69.json",
+    "png-file": "style_69.png",
+    "favorite": 0,
+    "custom": 0
+  },
+  "Green \u2013 Variation 10": {
+    "localized-name": "Green \u2013 Variation 10",
+    "locale": "en-US",
+    "json-file": "style_70.json",
+    "png-file": "style_70.png",
+    "favorite": 0,
+    "custom": 0
+  }
+}

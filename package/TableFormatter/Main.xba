@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script:module PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "module.dtd">
+<script:module xmlns:script="http://openoffice.org/2000/script" script:name="Main" script:language="StarBasic" script:moduleType="normal">Option Explicit
+
+Dim oMainDialog As Object
+
+Sub LoadScriptForge
+	If Not GlobalScope.BasicLibraries.IsLibraryLoaded(&quot;ScriptForge&quot;) Then
+		GlobalScope.BasicLibraries.LoadLibrary(&quot;ScriptForge&quot;)
+	End If
+End Sub
+
+Sub ShowMainDialog
+	Dim oStyleList As Object, oStyleListModel As Object
+	Dim arrStyles As Object
+	Dim i As Integer
+	&apos; Gets the dialog object
+	oMainDialog = CreateScriptService(&quot;Dialog&quot;, &quot;GlobalScope&quot;, &quot;TableFormatter&quot;, &quot;MainDialog&quot;)
+	&apos; Gets the styles list and populates it
+	oStyleList = oMainDialog.Controls(&quot;StyleList&quot;)
+	oStyleListModel = oStyleList.XControlModel
+	oStyleListModel.removeAllItems()
+	&apos; XRay oStyleListModel
+	arrStyles = Array(&quot;format_1.json&quot;, &quot;format_2.json&quot;, &quot;format_3.json&quot;, &quot;format_4.json&quot;)
+	For i = LBound(arrStyles) To UBound(arrStyles)
+		oStyleListModel.insertItemText(i, arrStyles(i))
+	Next i
+	oMainDialog.Execute()
+End Sub
+
+Sub cmdApplyExecute()
+	Dim basePath As String, selectedStyle As String
+	Dim session As Object
+	session = CreateScriptService(&quot;Session&quot;)
+	session.ExecutePythonScript()
+	basePath = &quot;/home/rafael/Programming/format_impress_table/format_files/&quot;
+	selectedStyle = oMainDialog.Controls(&quot;StyleList&quot;).Value
+	styleFile = basePath + selectedStyle
+End Sub
+
+</script:module>

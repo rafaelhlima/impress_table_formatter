@@ -1,0 +1,2 @@
+This folder exists for creating temporary PNG and JSON files. 
+Do not delete this folder!

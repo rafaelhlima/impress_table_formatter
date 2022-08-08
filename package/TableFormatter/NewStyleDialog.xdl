@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dlg:window PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "dialog.dtd">
+<dlg:window xmlns:dlg="http://openoffice.org/2000/dialog" xmlns:script="http://openoffice.org/2000/script" dlg:id="NewStyleDialog" dlg:left="227" dlg:top="109" dlg:width="127" dlg:height="150" dlg:closeable="true" dlg:moveable="true" dlg:title="New style from selection">
+ <dlg:styles>
+  <dlg:style dlg:style-id="0" dlg:background-color="0xffffff"/>
+ </dlg:styles>
+ <dlg:bulletinboard>
+  <dlg:img dlg:style-id="0" dlg:id="imgPreview" dlg:tab-index="2" dlg:left="5" dlg:top="46" dlg:width="118" dlg:height="76"/>
+  <dlg:textfield dlg:id="textName" dlg:tab-index="0" dlg:left="5" dlg:top="14" dlg:width="118" dlg:height="15"/>
+  <dlg:button dlg:id="btnCreate" dlg:tab-index="4" dlg:left="5" dlg:top="129" dlg:width="57" dlg:height="16" dlg:value="Create"/>
+  <dlg:button dlg:id="btnCancel" dlg:tab-index="5" dlg:left="66" dlg:top="129" dlg:width="57" dlg:height="16" dlg:value="Cancel"/>
+  <dlg:text dlg:id="labName" dlg:tab-index="1" dlg:left="7" dlg:top="4" dlg:width="67" dlg:height="8" dlg:value="New style name"/>
+  <dlg:text dlg:id="labPreview" dlg:tab-index="3" dlg:left="7" dlg:top="36" dlg:width="67" dlg:height="8" dlg:value="Preview"/>
+ </dlg:bulletinboard>
+</dlg:window>
