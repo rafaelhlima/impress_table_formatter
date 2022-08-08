@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<description
+    xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:dep="http://openoffice.org/extensions/description/2006"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:d="http://openoffice.org/extensions/description/2006"
+    xmlns:l="http://libreoffice.org/extensions/description/2011">
+    <identifier value="org.rafaelhlima.ImpressTableFormatter"/>
+    <icon>
+        <default xlink:href="icons/Main_Icon_32x32.png" />
+    </icon>
+    <version value="0.1.0"/>
+    <extension-description>
+      <src xlink:href="descriptions/descr-en.txt" lang="en"/>
+      <src xlink:href="descriptions/descr-pt.txt" lang="pt"/>
+   </extension-description>
+    <dependencies>
+		<l:LibreOffice-minimal-version value="7.2" d:name="LibreOffice 7.2"/>
+	</dependencies>
+    <registration>
+        <simple-license accept-by="admin" default-license-id="ID0" suppress-on-update="true" >
+        <license-text xlink:href="registration/license.txt" lang="en" license-id="ID0" />
+	</simple-license>
+    </registration>
+    <publisher>
+        <name xlink:href="mailto:rafaelhlima@libreoffice.org">Rafael Lima</name>
+    </publisher>
+    <display-name>
+        <name>Impress Table Formatter</name>
+        <name xml:lang="pt">Formatador de Tabelas do Impress</name>
+    </display-name>
+    <update-information>
+		<src/>
+    </update-information>
+</description>
